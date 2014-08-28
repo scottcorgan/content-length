@@ -1,0 +1,34 @@
+{
+  "name": "content-length",
+  "version": "1.0.0",
+  "description": "Express/Connect middleware to calculate the response payload size",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/scottcorgan/content-length.git"
+  },
+  "keywords": [
+    "response",
+    "size",
+    "content",
+    "length"
+  ],
+  "author": "Scott Corgan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/scottcorgan/content-length/issues"
+  },
+  "homepage": "https://github.com/scottcorgan/content-length",
+  "devDependencies": {
+    "chai": "^1.9.1",
+    "express": "^4.8.6",
+    "mocha": "^1.21.4",
+    "supertest": "^0.13.0"
+  }
+}
