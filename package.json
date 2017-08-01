@@ -1,6 +1,6 @@
 {
   "name": "content-length",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Express/Connect middleware to calculate the response payload size",
   "main": "index.js",
   "directories": {
